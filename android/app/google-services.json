@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158945949993",
+    "project_id": "onesignal-5f813",
+    "storage_bucket": "onesignal-5f813.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158945949993:android:de04adae4fc12eb26a9f38",
+        "android_client_info": {
+          "package_name": "com.example.onesignal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBOtZVD7oFz2fTerYdjKSU7264puCcI-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
