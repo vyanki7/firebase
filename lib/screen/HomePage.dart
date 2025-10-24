@@ -7,7 +7,9 @@ class Homepage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text("Homepage"),),
-      body:Column(children: [],)
+      body:Column(children: [
+        Text('dfs')
+      ],)
     );
   }
 }
